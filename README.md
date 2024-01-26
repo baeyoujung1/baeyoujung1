@@ -1,4 +1,9 @@
-### Hi there 👋
+
+### Bae Youjung
+- Department of Computer Science, Hanyang University (Mar. 2021 ~ )
+- Undergraduate Intern in Center for Neuromorphic Engineering, KIST (Sep. 2023 ~ )
+- Contact: baeyoujung1@hanyang.ac.kr
+
 
 <!--
 **baeyoujung1/baeyoujung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
